@@ -1,10 +1,14 @@
 # crud-products
-## CRUD de cadastro de produto para o teste de Desenvolvedor na BTZ.
+## CRUD de cadastro de produto para o teste de Desenvolvedor na [BTZ](https://grupobtz.com.br/).
 
-• Simple CRUD system for product management built with PHP, MySQL, PDO and Bootstrap.
+• CRUD simples para sistema de produtos construído com PHP, MySQL, PDO, Bootstrap e JS.
 
 ### Features
-- CRUD do produto
+- Listagem dos produtos.
+- Criação dos produtos.
+- Edição dos produtos.
+- Delete de produtos.
+- Validação dos campos.
 - Layout responsivo.
 
 ### Tecnologias utilizadas no projeto:
